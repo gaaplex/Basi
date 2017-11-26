@@ -12,6 +12,7 @@ public class decision_if {
 
     public static void main(String args[]) {
 
+        System.out.println("This is the secound version");
         int a = 3;
 
         if (a == 2) {
